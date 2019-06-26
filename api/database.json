@@ -1,24 +1,53 @@
 {
-  "posts": [
+  "departments": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "department": "IT"
     },
     {
       "id": 2,
-      "title": "json-server",
-      "author": "typicode"
+      "department": "HR"
+    },
+    {
+      "id": 3,
+      "department": "Sales"
     }
   ],
-  "comments": [
+  "computers": [
     {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "computer": "MacBook Pro",
+      "year": "2015"
+    },
+    {
+      "id": 2,
+      "computer": "HP",
+      "year": "2017"
+    },
+    {
+      "id": 3,
+      "computer": "AlianWare",
+      "year": "2019"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "employees": [
+    {
+      "id": 1,
+      "name": "Rainu Ittycheriah",
+      "computer_id": 1,
+      "department_id": 1
+    },
+    {
+      "id": 2,
+      "name": "Jon Doe",
+      "computer_id": 3,
+      "department_id": 2
+    },
+    {
+      "id": 3,
+      "name": "Jane Doe",
+      "computer_id": 2,
+      "department_id": 3
+    }
+  ]
 }
