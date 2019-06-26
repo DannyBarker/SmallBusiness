@@ -34,20 +34,20 @@
     {
       "id": 1,
       "name": "Rainu Ittycheriah",
-      "computer_id": 1,
-      "department_id": 1
+      "computerId": 1,
+      "departmentId": 1
     },
     {
       "id": 2,
       "name": "Jon Doe",
-      "computer_id": 3,
-      "department_id": 2
+      "computerId": 3,
+      "departmentId": 2
     },
     {
       "id": 3,
       "name": "Jane Doe",
-      "computer_id": 2,
-      "department_id": 3
+      "computerId": 2,
+      "departmentId": 3
     }
   ]
 }

@@ -1,2 +1,2 @@
-import {createHTMLObj} from "./entryDOM.js"
-createHTMLObj()
+import {createHTMLArr} from "./entryDOM.js"
+createHTMLArr()
